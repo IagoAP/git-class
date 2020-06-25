@@ -2,4 +2,5 @@
 
 ## Feel free to contribute
 
-`Hello world`
+`Hello world`\
+`sudo chmod a+rw`
