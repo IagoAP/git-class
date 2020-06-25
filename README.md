@@ -2,4 +2,5 @@
 
 ## Feel free to contribute
 
-`Hello world`
+`Hello world`\
+`sudo apt-get install git`
