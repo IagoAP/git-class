@@ -4,3 +4,4 @@
 
 `Hello world`\
 `sudo chmod a+rw`
+`sudo apt-get install git`
